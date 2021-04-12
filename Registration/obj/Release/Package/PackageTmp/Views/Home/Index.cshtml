@@ -8,20 +8,7 @@
             <h1>Prosty onboarding</h1>
             <h2>- przyspiesz procesy</h2>
             <h2>dzięki innowacji</h2>
-        </div>
-
-        @*<div class="row" style="text-align:left;">
-                <div class="col-md-4" style="background-color:#d50e3c; padding-left:60px;">
-                    <span id="first">Cyfrowe innowacje</span>
-                </div>
-                <div class="col-md-12" style="padding-left:60px;">
-                    <span id="second">
-                        Prosty onboarding
-                        <br />- przyspiesz procesy
-                        <br />dzięki innowacji
-                    </span>
-                </div>
-            </div>*@
+        </div>        
     </div>
 </header>
 
@@ -85,7 +72,7 @@
 </section>
 
 
-<section id="speakers" class="" style="background-color:#182e45;">
+<section id="speakers" class="" style="background-color:#495a6c;padding:90px;">
     <div class="container">
         <div class="row text-center">
             <div class="col-sm-12">
@@ -109,11 +96,6 @@
                     <img src="~/Content/images/Notes.png" class="img-responsive" style="height:100px; margin:0 auto;" />
                     <p>Jak monitorować i czuwać nad prawidłowym przebiegiem procesu.</p>
                 </div>
-                @*<ul class="list-arrow-right">
-                        <li>Jak w prosty sposób zautomatyzować i usprawnić procesy związane z przygotowywaniem umów i dokumentów.</li>
-                        <li>Jak korzystając z formularzy i automatycznych procesów znacznie przyspieszyć onboarding i zredukować do minimum zaangażowanie pracowników działu HR.</li>
-                        <li>Jak monitorować i czuwać nad prawidłowym przebiegiem procesu.</li>
-                    </ul>*@
             </div>
         </div>
     </div>
@@ -149,7 +131,6 @@
         </div>
     </div>
 </section>
-
 
 <section id="schedule" class="section schedule">
     <div class="container">
@@ -326,32 +307,7 @@
                }
            });
        });
-
-
-
-        // Set the date we're counting down to
-        var countDownDate = new Date("Jul 28, 2021 23:59:59").getTime();
-        // Update the count down every 1 second
-        var x = setInterval(function () {
-            // Get todays date and time
-            var now = new Date().getTime();
-            // Find the distance between now an the count down date
-            var distance = countDownDate - now;
-            // Time calculations for days, hours, minutes and seconds
-            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-            // Display the result in the element with id="demo"
-            document.getElementById("demo").innerHTML = "Do końca rejestracji pozostało: " + days + "d " + hours + "g "
-                + minutes + "m " + seconds + "s ";
-
-            // If the count down is finished, write some text
-            if (distance < 0) {
-                clearInterval(x);
-                document.getElementById("demo").innerHTML = "EXPIRED";
-            }
-        }, 1000);
+      
 
     </script>
 }
