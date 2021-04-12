@@ -1,0 +1,313 @@
+﻿@Styles.Render("~/Content/ionicons/css/ionicons.min.css")
+
+<header id="site-header" class="site-header valign-center">
+    <div class="intro">
+        <div class="col-md-4 overlay_red">
+            <h1>WEBINARIUM DLA HR</h1>
+            <p>Cyfrowe innowacje</p>
+            <h1>Prosty onboarding</h1>
+            <h2>- przyspiesz procesy</h2>
+            <h2>dzięki innowacji</h2>
+        </div>        
+    </div>
+</header>
+
+
+
+<section id="about" class="section about">
+    <div class="container">
+
+        @*counter start*@
+        <div class="row" style="text-align:center; margin-bottom:30px;">
+            <div class="col-xs-12">
+                <section id="count-up-section" class="count-up-section">
+                    <div class="row">
+                        <div class="col-xs-12" style="height: 30vh; display: flex; align-items: center; justify-content: center;">
+                            <div class="flipTimemodulesboxes">
+                                <div class="flipTimebox">
+                                    <div class="flipclock1"></div>
+                                    <div class="flipclock1message"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+        @*counter end*@
+
+        <div class="row">
+            <div class="col-sm-6">
+                <h1 style="color: #f08144; text-align:center;">19.05 o 10:00</h1>
+            </div>
+            <div class="col-sm-6">
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <h3 class="section-title">
+                    Weź udział w bezpłatnym webinarium dla pracowników działów HR
+                </h3>
+                <p>
+                    Dowiedz się, jak jeden z naszych Klientów, dzięki DocuWare usprawnił swój proces onboardingu i przygotowywanie umów z nowymi pracownikami.
+                </p>
+                <p>
+                    Przekonaj się, jak dzięki elektronicznym formularzom, nasz Klient na przeprocesowanie nowej umowy pracownika poświęca 5 minut zamiast godziny.
+                </p>
+                <p>
+                    Sprawdź, jak skutecznie przeprowadzić onboarding nowych pracowników w czasie pracy zdalnej i hybrydowej.
+                </p>
+            </div>
+
+
+            <div class="col-sm-6">
+                <h3 class="section-title">Formularz kontaktowy</h3>
+                <div id="sbform">
+                    @{ Html.RenderPartial("_fiveForm");}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="speakers" class="" style="background-color:#495a6c;padding:90px;">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-sm-12">
+                <h3 class="section-title">
+                    Podczas spotkania dowiesz się:
+                </h3>
+                <hr />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="col-sm-4">
+                    <img src="~/Content/images/Gears.png" class="img-responsive" style="height:100px; margin:0 auto;" />
+                    <p>Jak w prosty sposób zautomatyzować i usprawnić procesy związane z przygotowywaniem umów i dokumentów.</p>
+                </div>
+                <div class="col-sm-4">
+                    <img src="~/Content/images/Stoper.png" class="img-responsive" style="height:100px; margin:0 auto;" />
+                    <p>Jak korzystając z formularzy i automatycznych procesów znacznie przyspieszyć onboarding i zredukować do minimum zaangażowanie pracowników działu HR.</p>
+                </div>
+                <div class="col-sm-4">
+                    <img src="~/Content/images/Notes.png" class="img-responsive" style="height:100px; margin:0 auto;" />
+                    <p>Jak monitorować i czuwać nad prawidłowym przebiegiem procesu.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="schedule" class="section schedule">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-sm-12">
+                <h3 class="section-title">
+                    Poznaj zalety cyfryzacji i automatyzacji
+                </h3>
+                <hr />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <ul class="list-arrow-right">
+                    <li>Przyśpiesz i zautomatyzuj przygotowanie oraz zatwierdzanie dokumentów, umów, skierowań, planów szkoleń, związanych z onboardingiem nowych pracowników.</li>
+                    <li>Zamień papierowe dokumenty na elektroniczne wersje.</li>
+                    <li>Zmniejsz do minimum liczbę manualnych zadań związanych z obsługą procesów, które należy zrealizować przy  onboardingu.</li>
+                    <li>Zapomnij o ręcznym wprowadzaniu danych, zredukuj liczbę błędów ludzkich i unikaj niepotrzebnych przestojów.</li>
+                    <li>Postaw na system, który za Ciebie dopilnuje terminowego wykonania zadań przez wszystkie zaangażowane w proces onboardingu działy i osoby w firmie.</li>
+                    <li>Zadbaj o dobre pierwsze wrażenie i budowanie pozytywnego doświadczenie pracownika.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <a class="btn btn-white btn-lg" data-scroll href="#registration"><span style="font-size:17px;">Zarejestruj się</span></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="schedule" class="section schedule">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-sm-12">
+                <h3 class="section-title">
+                    Poznaj DocuWare
+                </h3>
+                <hr />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <p>
+                    DocuWare to innowacyjna platforma do elektronicznego obiegu dokumentów.
+                    Dzięki niej możesz zdygitalizować i zautomatyzować wiele procesów dokumentowych w firmie, w tym w dziale HR.
+                    Oprogramowanie korzysta z zaawansowanej technologii Sztucznej Inteligencji.
+                    Automatycznie rozpoznaje ważne dane zgromadzone w dokumentach elektronicznych i papierowych, gromadzi je i pozwala przesyłać do innych systemów, z których korzysta Twoja firma.
+                    Z DocuWare może skorzystać wiele działów m.in. Finansowy, Administracji, Handlowy czy Obsługi Klienta.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section id="speakers" class="section speakers">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">Prowadzący</h3>
+                <hr />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="speaker">
+                    <h4>
+                        Michał Dziadosz
+                    </h4>
+
+                    <figure>
+                        <img alt="" class="img-responsive img-circle center-block" src="~/content/images/speakers/MD.jpg" style="margin-top:30px; margin-bottom:30px;">
+                    </figure>
+                    <p>
+                        Direct SMB Department Director
+                        Odpowiedzialny za zintegrowane podejście do transformacji cyfrowej.
+                        „Mobilizuję tradycyjne zasoby organizacyjne, tj.: ludzie, dane i infrastruktura, aby osiągnąć cele danej firmy w sposób holistyczny. Moją rolą jest kreowanie synergii pomiędzy różnymi komórkami organizacji”.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="speaker">
+                    <h4>Wojciech Jankowski</h4>
+                    <figure>
+                        <img alt="" class="img-responsive img-circle center-block" src="~/content/images/speakers/WJ.jpg" style="margin-top:30px; margin-bottom:30px;">
+                    </figure>
+                    <p>
+                        Technical Consultant Ricoh Polska
+                        Z Ricoh Polska związany od ponad 4 lat. Specjalizuje się w doradztwie w zakresie rozwiązań z obszaru Document Management System (cyfrowy obieg dokumentów, procesy obiegu danych, digitalizacja i archiwizacja dokumentów), certyfikowany konsultant DocuWare.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <a class="btn btn-white btn-lg" data-scroll href="#registration"><span style="font-size:17px;">Zarejestruj się</span></a>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+
+
+
+
+@section Scripts {
+    <script>
+        //obsługa checkboxów - jeden zaznaczony, drugi nie
+        $('input').on('change', function () {
+            var id = $(this).prop('id');
+            if (id == 'Agree1Yes' || id == 'Agree1No') {
+                // Make sure the two have opposite values:
+                var other = id == 'Agree1Yes' ? 'Agree1No' : 'Agree1Yes';
+                $('#' + other).prop("checked", !$(this).prop("checked"));
+            }
+        });
+
+        $('input').on('change', function () {
+            var id = $(this).prop('id');
+            if (id == 'Agree2Yes' || id == 'Agree2No') {
+                // Make sure the two have opposite values:
+                var other = id == 'Agree2Yes' ? 'Agree2No' : 'Agree2Yes';
+                $('#' + other).prop("checked", !$(this).prop("checked"));
+            }
+        });
+
+
+
+
+        /* wylaczenie scroll smoothing na IE, zeby nie skakalo*/
+       if (navigator.userAgent.match(/Trident\/7\./)) { // if IE
+            $('body').on("mousewheel", function () {
+                // remove default behavior
+                event.preventDefault();
+
+            //scroll without smoothing
+                var wheelDelta = event.wheelDelta;
+                var currentScrollPosition = window.pageYOffset;
+                window.scrollTo(0, currentScrollPosition - wheelDelta);
+            });
+        }
+
+
+
+     $(document).ready(function () {
+           /*Obsluga wysylania formularza*/
+           $("#sbform").on('submit', '#sendform', function (event) {
+               event.preventDefault();
+
+               if (window.FormData === 'undefined') {
+                   alert("Przeglądarka nie wspiera obsługi formdata...");
+               }
+               else
+               {
+                   $("#sendbutton").hide();
+                   $("#sendingindicator").show();
+
+                   var fdata = new FormData(); //wymagane m.in. do obslugi wysylania plikow ajaxem
+
+                   //post danych z inputów
+                   $("input[type='text']").each(function (x, y) {
+                       fdata.append($(y).attr("name"), $(y).val());
+                   });
+
+                   //post danych z checkboxów
+                   $("input:checked").each(function (x, y) {
+                       fdata.append($(y).attr("name"), $(y).val());
+
+                   });
+
+                   //post danych z textarea
+                   $("textarea").each(function (x, y) {
+                       fdata.append($(y).attr("name"), $(y).val());
+                   });
+
+                   //post danych z selectów
+                   $("select").each(function (x, y) {
+                       fdata.append($(y).attr("name"), $(y).val());
+                   });
+
+
+                   $.ajax({
+                       url: '@Url.Action("SendForm", "Home")',
+                       type: "POST",
+                       contentType: false, // Not to set any content header
+                       processData: false, // Not to process data
+                       data: fdata,
+
+
+                       success: function (result) {
+                           $("#sbform").html(result);
+                           @*window.location.href = '@Url.Action("ThankYou","Home")';*@
+                       },
+                       error: function (err) {
+                           alert("Wystąpił błąd.");
+                           $("#sendingindicator").hide();
+                           $("#sendbutton").show();
+                       }
+                   });
+               }
+           });
+       });
+      
+
+    </script>
+}

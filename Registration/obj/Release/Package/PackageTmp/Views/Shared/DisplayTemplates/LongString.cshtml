@@ -1,0 +1,19 @@
+﻿@model string
+
+@if (String.IsNullOrEmpty(Model))
+{
+
+}
+else
+{
+    if (Model.Length > 20)
+    {
+        string s = Model.Substring(0, 19) + "...";
+        <span data-toggle="tooltip" title="@Model">@s</span>
+    }
+    else
+    {
+        @Model
+    }
+}
+

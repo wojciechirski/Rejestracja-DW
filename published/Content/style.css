@@ -1,0 +1,221 @@
+﻿body {
+    background-color: #182e45;
+    color:#dadada;
+}
+
+.sblist li::before {
+    margin: 0px 0px 0px -19px;
+    content: "\2001";
+    /*background-image: url("//new.landingi.com/uploads/3bdc07ab6e93c9c38c5a/pictures/2ae2ff61b54715a23b8b57210e86cd40.png");*/
+    background-image: url("../Content/images/2ae2ff61b54715a23b8b57210e86cd40.png");
+}
+
+ul {
+    padding: 0px 0px 0px 30px;
+    list-style-type: square;
+}
+
+    ul li {
+        position: relative;
+    }
+
+        ul li::before {
+            background-position: center;
+            margin: 0px;
+            padding: 0px; 
+            transform: translateX(-100%);
+            background-image: none;
+            background-repeat: no-repeat;
+            background-size: contain;
+            -webkit-transform: translateX(-100%);
+            -moz-transform: translateX(-100%);
+            -o-transform: translateX(-100%);
+        }
+
+
+    .alert-success {
+    color: #fff;
+    background-color: #574B97;
+    border-color: #574B97;
+}
+
+
+
+
+a:focus, a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+a:active, a:hover {
+    outline: 0;
+}
+
+a {
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.myIframe {
+    position: relative;
+    padding-bottom: 65.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.myIframe iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+    #spfuture {
+        font-size: 100px;
+        font-weight: 900
+    }
+
+    #first {
+        font-size: 40px;
+        font-weight: 800
+     
+    }
+
+    #second {
+        font-size: 30px;
+        font-weight: 800
+    }
+
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+    #spfuture {
+        font-size: 100px;
+        font-weight: 900
+    }
+
+    #first {
+        font-size: 40px;
+        font-weight: 900
+    }
+
+    #second {
+        font-size: 40px;
+        font-weight: 900
+    }
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+    #spfuture {
+        font-size: 100px;
+        font-weight: 900
+    }
+
+    #first {
+        font-size: 50px;
+        font-weight: 900
+    }
+
+    #second {
+        font-size: 35px;
+        font-weight: 900
+    }
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+    #spfuture {
+        font-size: 100px;
+        font-weight: 700
+    }
+    #first {
+        font-size: 40px;
+        font-weight: 900
+    }
+
+    #second {
+        font-size: 25px;
+        font-weight: 900
+    }
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+    #spfuture {
+        font-size: 100px;
+        font-weight: 700
+    }
+
+    #first {
+        font-size: 30px;
+        font-weight: 900
+    }
+
+    #second {
+        font-size: 20px;
+        font-weight: 900
+    }
+
+}
+
+/*responsive iframe*/
+.iframe-container {
+    overflow: hidden;
+    padding-top: 56.25%;
+    position: relative;
+}
+
+    .iframe-container iframe {
+        border: 0;
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+
+/* 4x3 Aspect Ratio */
+.iframe-container-4x3 {
+    padding-top: 75%;
+}
+
+
+.overlay_light {
+    padding: 120px 0 80px 0;
+    background: rgba(3,16,29,0.45);
+}
+
+.overlay_dark {
+    padding: 120px 0 80px 0;
+    background: rgba(3,16,29,0.65);
+}
+
+.overlay_red {
+    padding: 200px 0 200px 0;
+    background: rgba(213,14,60,0.55);
+    /*height:700px;
+    width:700px;*/
+}
+
+
+
+
+
+

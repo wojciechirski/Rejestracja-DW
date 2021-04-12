@@ -1,0 +1,1084 @@
+E:\VS2017\Registration_2019_09_18\Registration\bin\NLog.config
+E:\VS2017\Registration_2019_09_18\Registration\bin\Registration.dll.config
+E:\VS2017\Registration_2019_09_18\Registration\bin\Registration.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Registration.pdb
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\csc.exe
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\csc.exe.config
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\csc.rsp
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\csi.exe
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\csi.rsp
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\System.AppContext.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\System.Collections.Immutable.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\System.IO.FileSystem.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\vbc.exe
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\vbc.exe.config
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\vbc.rsp
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\VBCSCompiler.exe
+E:\VS2017\Registration_2019_09_18\Registration\bin\roslyn\VBCSCompiler.exe.config
+E:\VS2017\Registration_2019_09_18\Registration\bin\Antlr3.Runtime.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\EntityFramework.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\EntityFramework.SqlServer.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\MailBee.NET.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.Google.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Web.Infrastructure.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Newtonsoft.Json.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\NLog.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\NLog.Extended.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\Owin.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.Helpers.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.Mvc.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.Optimization.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.Razor.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.WebPages.Deployment.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.WebPages.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.WebPages.Razor.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\WebGrease.dll
+E:\VS2017\Registration_2019_09_18\Registration\bin\NLog.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\NLog.Extended.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.Helpers.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.Mvc.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.Optimization.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.Razor.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.WebPages.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.WebPages.Deployment.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\System.Web.WebPages.Razor.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Newtonsoft.Json.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Antlr3.Runtime.pdb
+E:\VS2017\Registration_2019_09_18\Registration\bin\EntityFramework.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\EntityFramework.SqlServer.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.Google.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS2017\Registration_2019_09_18\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS2017\Registration_2019_09_18\Registration\obj\Release\Registration.csproj.CoreCompileInputs.cache
+E:\VS2017\Registration_2019_09_18\Registration\obj\Release\Registration.csproj.CopyComplete
+E:\VS2017\Registration_2019_09_18\Registration\obj\Release\Registration.dll
+E:\VS2017\Registration_2019_09_18\Registration\obj\Release\Registration.pdb
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\NLog.config
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Registration.dll.config
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Registration.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Registration.pdb
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\csc.exe
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\csc.exe.config
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\csc.rsp
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\csi.exe
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\csi.rsp
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\System.AppContext.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\System.Collections.Immutable.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\System.IO.FileSystem.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\vbc.exe
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\vbc.exe.config
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\vbc.rsp
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\VBCSCompiler.exe
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\roslyn\VBCSCompiler.exe.config
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Antlr3.Runtime.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\EntityFramework.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\EntityFramework.SqlServer.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\MailBee.NET.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.Google.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Web.Infrastructure.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Newtonsoft.Json.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\NLog.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\NLog.Extended.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Owin.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.Helpers.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.Mvc.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.Optimization.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.Razor.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.WebPages.Deployment.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.WebPages.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.WebPages.Razor.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\WebGrease.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\NLog.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\NLog.Extended.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.Helpers.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.Mvc.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.Optimization.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.Razor.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.WebPages.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.WebPages.Deployment.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\System.Web.WebPages.Razor.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Newtonsoft.Json.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Antlr3.Runtime.pdb
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\EntityFramework.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\EntityFramework.SqlServer.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.Google.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\obj\Release\Registration.csproj.CoreCompileInputs.cache
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\obj\Release\Registration.csproj.CopyComplete
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\obj\Release\Registration.dll
+E:\VS2017\Registration_New_Layout_2019_09_19\Registration\obj\Release\Registration.pdb
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\NLog.config
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Registration.dll.config
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Registration.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Registration.pdb
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\csc.exe
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\csc.exe.config
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\csc.rsp
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\csi.exe
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\csi.rsp
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\System.AppContext.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\System.Collections.Immutable.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\System.IO.FileSystem.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\vbc.exe
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\vbc.exe.config
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\vbc.rsp
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\VBCSCompiler.exe
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\roslyn\VBCSCompiler.exe.config
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Antlr3.Runtime.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\EntityFramework.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\EntityFramework.SqlServer.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\MailBee.NET.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.Google.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Web.Infrastructure.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Newtonsoft.Json.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\NLog.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\NLog.Extended.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Owin.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.Helpers.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.Mvc.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.Optimization.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.Razor.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.WebPages.Deployment.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.WebPages.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.WebPages.Razor.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\WebGrease.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\NLog.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\NLog.Extended.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.Helpers.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.Mvc.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.Optimization.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.Razor.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.WebPages.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.WebPages.Deployment.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\System.Web.WebPages.Razor.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Newtonsoft.Json.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Antlr3.Runtime.pdb
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\EntityFramework.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\EntityFramework.SqlServer.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.Google.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\obj\Release\Registration.csprojAssemblyReference.cache
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\obj\Release\Registration.csproj.CoreCompileInputs.cache
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\obj\Release\Registration.csproj.CopyComplete
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\obj\Release\Registration.dll
+E:\VS2017\Registration_New_Layout_2019_09_25\Registration\obj\Release\Registration.pdb
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\NLog.config
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Registration.dll.config
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Registration.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Registration.pdb
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\csc.exe
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\csc.exe.config
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\csc.rsp
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\csi.exe
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\csi.rsp
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.AppContext.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.Collections.Immutable.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.IO.FileSystem.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\vbc.exe
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\vbc.exe.config
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\vbc.rsp
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\VBCSCompiler.exe
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\roslyn\VBCSCompiler.exe.config
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Antlr3.Runtime.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\EntityFramework.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\EntityFramework.SqlServer.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\MailBee.NET.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Google.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Web.Infrastructure.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Newtonsoft.Json.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\NLog.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\NLog.Extended.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Owin.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.Helpers.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.Mvc.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.Optimization.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.Razor.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Deployment.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Razor.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\WebGrease.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\NLog.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\NLog.Extended.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.Helpers.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.Mvc.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.Optimization.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.Razor.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Deployment.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Razor.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Newtonsoft.Json.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Antlr3.Runtime.pdb
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\EntityFramework.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\EntityFramework.SqlServer.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Google.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS2017\2020_01_29_Roadshow\Registration\obj\Release\Registration.csproj.CoreCompileInputs.cache
+E:\VS2017\2020_01_29_Roadshow\Registration\obj\Release\Registration.csproj.CopyComplete
+E:\VS2017\2020_01_29_Roadshow\Registration\obj\Release\Registration.dll
+E:\VS2017\2020_01_29_Roadshow\Registration\obj\Release\Registration.pdb
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\NLog.config
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Registration.dll.config
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Registration.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Registration.pdb
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\csc.exe
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\csc.exe.config
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\csc.rsp
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\csi.exe
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\csi.rsp
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\System.AppContext.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\System.Collections.Immutable.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\System.IO.FileSystem.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\vbc.exe
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\vbc.exe.config
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\vbc.rsp
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\VBCSCompiler.exe
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\roslyn\VBCSCompiler.exe.config
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Antlr3.Runtime.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\EntityFramework.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\EntityFramework.SqlServer.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\MailBee.NET.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Google.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Newtonsoft.Json.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\NLog.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\NLog.Extended.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Owin.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.Helpers.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.Mvc.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.Optimization.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.Razor.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Deployment.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Razor.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\WebGrease.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\NLog.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\NLog.Extended.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.Helpers.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.Mvc.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.Optimization.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.Razor.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Deployment.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Razor.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Newtonsoft.Json.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Antlr3.Runtime.pdb
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\EntityFramework.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\EntityFramework.SqlServer.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Google.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty\2020_01_29_Roadshow\Registration\obj\Release\Registration.csprojAssemblyReference.cache
+D:\Projekty\2020_01_29_Roadshow\Registration\obj\Release\Registration.csproj.CopyComplete
+D:\Projekty\2020_01_29_Roadshow\Registration\obj\Release\Registration.dll
+D:\Projekty\2020_01_29_Roadshow\Registration\obj\Release\Registration.pdb
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\NLog.config
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Registration.dll.config
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Registration.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Registration.pdb
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\csc.exe
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\csc.exe.config
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\csc.rsp
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\csi.exe
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\csi.rsp
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.AppContext.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.Collections.Immutable.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.IO.FileSystem.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\vbc.exe
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\vbc.exe.config
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\vbc.rsp
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\VBCSCompiler.exe
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\roslyn\VBCSCompiler.exe.config
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Antlr3.Runtime.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\EntityFramework.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\EntityFramework.SqlServer.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\MailBee.NET.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Google.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Newtonsoft.Json.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\NLog.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\NLog.Extended.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Owin.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.Helpers.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.Mvc.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.Optimization.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.Razor.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Deployment.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Razor.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\WebGrease.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\NLog.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\NLog.Extended.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.Helpers.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.Mvc.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.Optimization.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.Razor.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Deployment.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\System.Web.WebPages.Razor.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Newtonsoft.Json.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Antlr3.Runtime.pdb
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\EntityFramework.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\EntityFramework.SqlServer.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Google.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\obj\Release\Registration.csprojResolveAssemblyReference.cache
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\obj\Release\Registration.dll
+D:\Projekty\Visual 2017\2020_01_29_Roadshow\Registration\obj\Release\Registration.pdb
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\NLog.config
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Registration.dll.config
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Registration.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Registration.pdb
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\csc.exe
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\csc.exe.config
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\csc.rsp
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\csi.exe
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\csi.rsp
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\System.AppContext.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\System.Collections.Immutable.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\System.IO.FileSystem.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\vbc.exe
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\vbc.exe.config
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\vbc.rsp
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\VBCSCompiler.exe
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\roslyn\VBCSCompiler.exe.config
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Antlr3.Runtime.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\EntityFramework.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\EntityFramework.SqlServer.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\MailBee.NET.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.Google.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Web.Infrastructure.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Newtonsoft.Json.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\NLog.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\NLog.Extended.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Owin.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.Helpers.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.Mvc.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.Optimization.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.Razor.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.WebPages.Deployment.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.WebPages.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.WebPages.Razor.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\WebGrease.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\NLog.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\NLog.Extended.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.Helpers.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.Mvc.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.Optimization.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.Razor.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.WebPages.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.WebPages.Deployment.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\System.Web.WebPages.Razor.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Newtonsoft.Json.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Antlr3.Runtime.pdb
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\EntityFramework.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\EntityFramework.SqlServer.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.Google.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS2017\Roadshow_2020_03_13\Registration\obj\Release\Registration.csproj.CoreCompileInputs.cache
+E:\VS2017\Roadshow_2020_03_13\Registration\obj\Release\Registration.csproj.CopyComplete
+E:\VS2017\Roadshow_2020_03_13\Registration\obj\Release\Registration.dll
+E:\VS2017\Roadshow_2020_03_13\Registration\obj\Release\Registration.pdb
+E:\VS2017\Roadshow_2020_03_13\Registration\obj\Release\Registration.csprojAssemblyReference.cache
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\NLog.config
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Registration.dll.config
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Registration.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Registration.pdb
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\csc.exe
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\csc.exe.config
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\csc.rsp
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\csi.exe
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\csi.rsp
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\System.AppContext.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\System.Collections.Immutable.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\System.IO.FileSystem.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\vbc.exe
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\vbc.exe.config
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\vbc.rsp
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\VBCSCompiler.exe
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\roslyn\VBCSCompiler.exe.config
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Antlr3.Runtime.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\EntityFramework.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\EntityFramework.SqlServer.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\MailBee.NET.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.Google.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Web.Infrastructure.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Newtonsoft.Json.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\NLog.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\NLog.Extended.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Owin.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.Helpers.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.Mvc.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.Optimization.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.Razor.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.WebPages.Deployment.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.WebPages.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.WebPages.Razor.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\WebGrease.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\NLog.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\NLog.Extended.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.Helpers.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.Mvc.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.Optimization.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.Razor.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.WebPages.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.WebPages.Deployment.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\System.Web.WebPages.Razor.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Newtonsoft.Json.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Antlr3.Runtime.pdb
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\EntityFramework.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\EntityFramework.SqlServer.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.Google.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS2017\Edukacja_2019_03_20\Registration\obj\Release\Registration.csproj.CoreCompileInputs.cache
+E:\VS2017\Edukacja_2019_03_20\Registration\obj\Release\Registration.csproj.CopyComplete
+E:\VS2017\Edukacja_2019_03_20\Registration\obj\Release\Registration.dll
+E:\VS2017\Edukacja_2019_03_20\Registration\obj\Release\Registration.pdb
+E:\VS2017\Edukacja_2019_03_20\Registration\obj\Release\Registration.csprojAssemblyReference.cache
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\NLog.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Registration.dll.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Registration.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Registration.pdb
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\csc.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\csc.exe.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\csc.rsp
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\csi.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\csi.rsp
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\System.AppContext.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\vbc.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\vbc.exe.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\vbc.rsp
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\VBCSCompiler.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Antlr3.Runtime.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\EntityFramework.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\EntityFramework.SqlServer.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\MailBee.NET.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Newtonsoft.Json.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\NLog.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\NLog.Extended.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Owin.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.Helpers.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.Mvc.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.Optimization.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.Razor.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.WebPages.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.WebPages.Razor.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\WebGrease.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\NLog.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\NLog.Extended.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.Helpers.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.Mvc.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.Optimization.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.Razor.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.WebPages.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\System.Web.WebPages.Razor.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Newtonsoft.Json.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Antlr3.Runtime.pdb
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\EntityFramework.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\EntityFramework.SqlServer.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\obj\Release\Registration.csproj.CoreCompileInputs.cache
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\obj\Release\Registration.csproj.CopyComplete
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\obj\Release\Registration.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Edukacja_2020_03_20\Registration\obj\Release\Registration.pdb
+E:\VS2017\Docuware_2020_06_23\Registration\bin\NLog.config
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Registration.dll.config
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Registration.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Registration.pdb
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\csc.exe
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\csc.exe.config
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\csc.rsp
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\csi.exe
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\csi.rsp
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\System.AppContext.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\System.Collections.Immutable.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\System.IO.FileSystem.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\vbc.exe
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\vbc.exe.config
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\vbc.rsp
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\VBCSCompiler.exe
+E:\VS2017\Docuware_2020_06_23\Registration\bin\roslyn\VBCSCompiler.exe.config
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Antlr3.Runtime.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\EntityFramework.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\EntityFramework.SqlServer.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\MailBee.NET.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Google.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Web.Infrastructure.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Newtonsoft.Json.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\NLog.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\NLog.Extended.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Owin.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.Helpers.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.Mvc.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.Optimization.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.Razor.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.Deployment.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.Razor.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\WebGrease.dll
+E:\VS2017\Docuware_2020_06_23\Registration\bin\NLog.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\NLog.Extended.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.Helpers.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.Mvc.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.Optimization.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.Razor.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.Deployment.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.Razor.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Newtonsoft.Json.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Antlr3.Runtime.pdb
+E:\VS2017\Docuware_2020_06_23\Registration\bin\EntityFramework.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\EntityFramework.SqlServer.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Google.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS2017\Docuware_2020_06_23\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS2017\Docuware_2020_06_23\Registration\obj\Release\Registration.csproj.CoreCompileInputs.cache
+E:\VS2017\Docuware_2020_06_23\Registration\obj\Release\Registration.csproj.CopyComplete
+E:\VS2017\Docuware_2020_06_23\Registration\obj\Release\Registration.dll
+E:\VS2017\Docuware_2020_06_23\Registration\obj\Release\Registration.pdb
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\NLog.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Registration.dll.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Registration.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Registration.pdb
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\csc.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\csc.exe.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\csc.rsp
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\csi.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\csi.rsp
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\System.AppContext.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\vbc.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\vbc.exe.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\vbc.rsp
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\VBCSCompiler.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Antlr3.Runtime.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\EntityFramework.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\EntityFramework.SqlServer.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\MailBee.NET.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Newtonsoft.Json.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\NLog.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\NLog.Extended.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Owin.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.Helpers.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.Mvc.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.Optimization.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.Razor.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.Razor.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\WebGrease.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\NLog.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\NLog.Extended.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.Helpers.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.Mvc.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.Optimization.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.Razor.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\System.Web.WebPages.Razor.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Newtonsoft.Json.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Antlr3.Runtime.pdb
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\EntityFramework.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\EntityFramework.SqlServer.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\obj\Release\Registration.csprojAssemblyReference.cache
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\obj\Release\Registration.csproj.CoreCompileInputs.cache
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\obj\Release\Registration.csproj.CopyComplete
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\obj\Release\Registration.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Proj\Docuware_2020_06_23\Registration\obj\Release\Registration.pdb
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\NLog.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Registration.dll.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Registration.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Registration.pdb
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\csc.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\csc.exe.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\csc.rsp
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\csi.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\csi.rsp
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\System.AppContext.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\vbc.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\vbc.exe.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\vbc.rsp
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\VBCSCompiler.exe
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Antlr3.Runtime.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\EntityFramework.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\EntityFramework.SqlServer.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\MailBee.NET.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Newtonsoft.Json.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\NLog.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\NLog.Extended.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Owin.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.Helpers.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.Mvc.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.Optimization.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.Razor.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.WebPages.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.WebPages.Razor.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\WebGrease.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\NLog.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\NLog.Extended.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.Helpers.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.Mvc.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.Optimization.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.Razor.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.WebPages.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\System.Web.WebPages.Razor.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Newtonsoft.Json.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Antlr3.Runtime.pdb
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\EntityFramework.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\EntityFramework.SqlServer.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\obj\Release\Registration.csproj.CoreCompileInputs.cache
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\obj\Release\Registration.csproj.CopyComplete
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\obj\Release\Registration.dll
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\obj\Release\Registration.pdb
+C:\Users\wojciech.irski\OneDrive - Ricoh Europe PLC\Desktop\Strona\Docuware_2021_04_08\Registration\obj\Release\Registration.csprojAssemblyReference.cache

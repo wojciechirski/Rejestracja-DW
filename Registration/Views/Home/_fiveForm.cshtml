@@ -1,0 +1,99 @@
+﻿@model Registration.Models.RegistrationViewModel
+
+@using (Html.BeginForm("SendForm", "Home", FormMethod.Post, new { id = "sendform", enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group">
+                @Html.TextBoxFor(x => x.FirstName, new { @class = "form-control", placeholder = "Imię" })
+                @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.TextBoxFor(x => x.Email, new { @class = "form-control", placeholder = "Twój@email.pl" })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="col-sm-6">
+            <div class="form-group">
+                @Html.TextBoxFor(x => x.LastName, new { @class = "form-control", placeholder = "Nazwisko" })
+                @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.TextBoxFor(x => x.Company, new { @class = "form-control", placeholder = "Firma" })
+                @Html.ValidationMessageFor(model => model.Company, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <div style="float:left;">
+                    @Html.LabelFor(x => x.Agree1Yes, new { style = "margin-right:5px;" })
+                    @Html.CheckBoxFor(x => x.Agree1Yes, new { style = "" })
+                </div>
+
+                <div style="text-align:left; margin-left:5%;">
+                    <p style="font-size:12px; padding-left:5%;">
+                        Wyrażam zgodę na przysłanie przez Ricoh Polska informacji handlowych w ramach marketingu bezpośredniego produktów i usług Ricoh Polska za pośrednictwem środków komunikacji elektronicznej przez e-mail.
+                    </p>
+                    @Html.ValidationMessageFor(model => model.Agree1Yes, "", new { @class = "text-danger" })
+                    @Html.ValidationMessageFor(model => model.Agree1No, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <div style="float:left;">
+                    @Html.LabelFor(x => x.Agree2Yes, new { style = "margin-right:5px;" })
+                    @Html.CheckBoxFor(x => x.Agree2Yes, new { style = "" })
+                </div>
+
+                <div style="text-align:left; margin-left:5%;">
+                    <p style="font-size:12px; padding-left:5%;">
+                        Wyrażam zgodę na przysłanie przez Ricoh Polska informacji handlowych w ramach marketingu bezpośredniego produktów i usług Ricoh Polska za pośrednictwem środków komunikacji elektronicznej przez telefon.
+                        @*Zapoznaj się z naszą <a href="https://www.ricoh.pl/privacy-policy.html" target="_blank" style="color:#d50e3c">polityką prywatności</a>*@
+                        Zapoznaj się z naszą <a href="https://www.ricoh.pl/privacy-policy.html" target="_blank" style="color:#f08144">polityką prywatności</a>                       
+                    </p>
+                    @Html.ValidationMessageFor(model => model.Agree2Yes, "", new { @class = "text-danger" })
+                    @Html.ValidationMessageFor(model => model.Agree2No, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 text-center">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger ulerrors" })
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <p style="text-align:center; margin-bottom:0px;">
+                    W razie jakichkolwiek pytań dotyczących danych osobowych, prosimy o kontakt pod następującym adresem e-mail: ochronadanych@ricoh.pl
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <div style="margin-bottom:20px;">
+                @*<input id="sendbutton" type="submit" value="Wyślij!" class="btn btn-white btn-lg" style="background-color: #d50e3c;" />*@
+                <input id="sendbutton" type="submit" value="Wyślij!" class="btn btn-white btn-lg" style="background-color: #f08144;" />
+
+                <p id="sendingindicator" style="color: #ed6d05; display: none;"><i class="fa fa-spinner fa-spin fa-fw"></i> Trwa wysyłanie...</p>
+            </div>
+        </div>
+    </div>
+}

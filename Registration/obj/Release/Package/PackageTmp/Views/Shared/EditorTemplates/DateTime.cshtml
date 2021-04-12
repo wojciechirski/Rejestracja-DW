@@ -1,0 +1,18 @@
+﻿@model DateTime?
+
+@if (Model.HasValue)
+{
+    DateTime dt = (DateTime)Model;
+    if (dt.Year == DateTime.MaxValue.Year)
+    {
+        @Html.TextBox("", String.Empty, new { @class = "form-control dp", type = "text" })
+    }
+    else
+    {
+        @Html.TextBox("", Model.Value.ToString("yyyy-MM-dd"), new { @class = "form-control dp", type = "text" })
+    }
+}
+else
+{
+    @Html.TextBox("", String.Empty, new { @class = "form-control dp", type = "text" })
+}
